@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emredindr&show_icons=true&locale=en" alt="emredindr" /></p>
 
-![snake gif](https://github.com/CagatayAkkas/CagatayAkkas/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/emredindr/emredindr/blob/output/github-contribution-grid-snake.gif)
