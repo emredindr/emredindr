@@ -1,6 +1,6 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4D03AQHtXYDUM_79yw/profile-displayphoto-shrink_200_200/0/1648645181013?e=1701302400&v=beta&t=Eae9-i6RDdAo5ZFhlbcCnhhK5Vlh_Lw0iEE0__63EDk)
+![MasterHead](https://media.licdn.com/dms/image/C4D03AQHtXYDUM_79yw/profile-displayphoto-shrink_200_200/0/1648645181013?e=1701302400&v=beta&t=Eae9-i6RDdAo5ZFhlbcCnhhK5Vlh_Lw0iEE0__63EDk)
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> Software Developer from Turkey </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
