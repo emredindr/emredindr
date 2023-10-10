@@ -1,8 +1,10 @@
-![MasterHead](https://media.licdn.com/dms/image/C4D03AQHtXYDUM_79yw/profile-displayphoto-shrink_200_200/0/1648645181013?e=1701302400&v=beta&t=Eae9-i6RDdAo5ZFhlbcCnhhK5Vlh_Lw0iEE0__63EDk)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/C4D03AQHtXYDUM_79yw/profile-displayphoto-shrink_200_200/0/1648645181013?e=1702512000&v=beta&t=-N1RA9ibSObfJ70pY5YKopl3bsBYPfmOi1VfzNu5A8w" alt="Sublime's custom image"/>
+</p>
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center"> Software Developer from Turkey </h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning and developing **SQL Server + .Net Core Web API + React Native**
 
 - 📫 How to reach me **emredindr@gmail.com**
 
