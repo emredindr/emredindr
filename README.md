@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/archive-ed.appspot.com/o/ed-photo%2Fed-photo.jpg?alt=media&token=5ffd298a-bc49-46f2-bd6e-71b66990151e" alt="Sublime's custom image"/>
+  <img width="200px" src="https://firebasestorage.googleapis.com/v0/b/archive-ed.appspot.com/o/ed-photo%2Fed-photo.jpg?alt=media&token=5ffd298a-bc49-46f2-bd6e-71b66990151e" alt="Sublime's custom image"/>
 </p>
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center"> Software Developer from Turkey </h3>
