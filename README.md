@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center"> Software Developer from Turkey </h3>
 
-- 🌱 I’m currently learning and developing **SQL Server + .Net Core Web API + React Native**
+- 🌱 I’m currently learning and developing **SQL Server + .Net Core Web API + React / React Native**
 
 - 📫 How to reach me **emredindr@gmail.com**
 
